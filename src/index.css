@@ -7,6 +7,7 @@ body {
   background-color: #7700ee;
   color: #fff;
   overflow-x: hidden;
+  background-image: url("../scripts/assets/christmas-treats.jpg");
 }
 #root {
   min-height: 100vh;
